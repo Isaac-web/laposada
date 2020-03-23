@@ -1,0 +1,266 @@
+
+    .header {
+     
+      z-index: 100;
+    }
+    .swiper-container {
+      width: 400px;
+      height: 220px;
+      padding: 50px;
+    }
+
+    .swiper-wrapper {
+        
+        height: fit-content;
+    }
+    .swiper-slide {
+      background-position: center;
+      background-size: cover;
+      width: auto;
+      height: auto;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      
+    }
+
+    .swiper-button-prev, .swiper-button-next {
+        color: #ddd;
+        transition: 300ms;
+    }
+
+    .swiper-button-prev:hover, .swiper-button-next:hover {
+        color: orange;
+    }
+
+    /* Custom Slider  */
+
+    .carosel-slide-img {
+      width: 100%;
+      
+    }
+
+    .row-1 {
+      overflow: hidden;
+    }
+    
+    .carosel-slide {
+      display: flex;
+      overflow: hidden;
+    }
+
+    
+
+
+
+    @media screen and (max-width: 700px){
+      .carosel-slide-img {
+        width: 100%;
+        height: 87vh;
+      }
+  
+    }
+
+
+    /* Slideshow container */
+.slideshow-container {
+  width: 100%;
+  height: 85vh;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 30%;
+  transform: translateY(-0%);
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+
+.slide-heading-1 {
+  font-family: cursive;
+  font-size: 50px;
+  letter-spacing: -1px;
+  animation: slideH1 1s ease;
+  color: rgb(255, 136, 0);
+}
+
+@keyframes slideH1 {
+    from{
+      transform: translateY(-30vh);
+      opacity: 0;
+    }
+
+    to{
+      transform: translateY(0);
+      opacity: 1;
+      transform: translateY(0);
+      opacity: 1;
+    }
+}
+
+.slide-para  {
+  font-size: 25px;
+  transform: scale(0);
+  color: white;
+  text-shadow: 0 0 0 2px rgba(0,0,0,0.8);
+  animation: slideP 500ms ease 1s forwards;
+}
+
+@keyframes slideP {
+  from{
+
+    transform: scale(0);
+    opacity: 0;
+  }
+
+  to{
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.dropbtn-1 a {
+  color: white;
+  padding: 18px;
+  background: orange;
+  width: 120px;
+  display: block;
+  border-radius: 3px;  
+  animation: dropbtn-0 3s ease;
+}
+
+.dropbtn-1 a:hover {
+  color: white;
+  background:orangered;
+}
+
+.dropbtn-1 {
+  margin: 20px auto;
+  overflow: hidden;
+  animation: dropbtn-1 3s ease;
+}
+
+@keyframes dropbtn-0 {
+  from{
+    border-radius: 50px 50px 0 0;
+   
+  }
+
+  to{
+    border-radius: none;
+    
+  }
+}
+
+
+@keyframes dropbtn-1 {
+  from{
+    border-radius: 50px 50px 0 0;
+    transform: translateY(200px);
+    opacity: 0;
+  }
+
+  to{
+    border-radius: none;
+    transform: translateY(0px);
+    opacity: 1;
+  }
+}
+
+@media screen and (max-width: 700px){
+
+  .text{
+    color: navy;
+  }
+  .slide-heading-1 {
+    font-family: cursive;
+    font-size: 30px;
+    letter-spacing: -1px;
+    animation: slideH1 1s ease;
+    color: rgb(255, 136, 0);
+  }
+
+  
+}

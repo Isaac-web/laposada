@@ -1,0 +1,184 @@
+.pearl-elm-section {
+	padding: 80px 0;
+	float: left;
+	width: 100%;
+}
+.wtf-menu .dropdown { opacity: 1.0; }
+#main .pearl-elm-section:nth-child(1) { padding: 0px 0px 80px 0px; }
+.pearl-section-no-padding .vc_column-inner { padding: 0px !important; }
+ul.footer-nav li:after {
+	content: "-";
+	color: #FFF;
+	padding-left: 5px;
+}
+.blog-grid-view .item {
+	margin: 0;
+	padding: 0;
+	padding-bottom: 25px;
+}
+.pearl-section-no-padding .vc_column_container>.vc_column-inner { padding : 0px; }
+.owl-carousel .item {
+	margin: 0 15px 0 0;
+	padding: 0 15px 0 0;
+}
+.elm-none{ display:none;}
+.booking-from .alert.alert-danger {
+	border: solid 3px #FFA3A3;
+	background: #FBF0F0;
+	padding: 12px 0;
+	margin: -28px 0 15px 16px;
+	width: 96%;
+	border-radius: 0px;
+	text-align: center;
+	color: #363636;
+	font-size: 20px;
+}
+.booking-from .alert.alert-success {
+	border: solid 3px #3CB371;
+	background: none;
+	padding: 12px 0;
+	margin: -28px 0 15px 16px;
+	width: 100%;
+	border-radius: 0px;
+	text-align: center;
+	color: #363636;
+	font-size: 20px;
+}
+.owl-demo .item {
+	margin: 0 15px 0 0;
+	padding: 0 15px 0 0;
+}
+.pearl-imageframe img {/* padding-bottom: 0; */}
+.add_to_cart_button i.fa-refresh, .add_to_cart_button i.fa-check { display: none; }
+.shop-gallery .cbp-item .add_to_cart_button.loading i.fa-refresh { display: block; }
+.shop-gallery .cbp-item .add_to_cart_button.added i.fa-refresh { display: none; }
+.shop-gallery .cbp-item .add_to_cart_button.added i.fa-check { display: block; }
+.added_to_cart.wc-forward { display: none !important; }
+.pro-image .thumbnails a img {
+	width: 100px;
+	height: 100px;
+}
+.pro-image .thumbnails {
+	padding-top: 15px;
+	float: left;
+	width: 100%;
+}
+.pro-image .thumbnails a {
+	padding: 5px;
+	border: 1px solid #dfdfdf;
+	float: left;
+	margin: 0px 0px 10px 10px;
+	border-radius: 2px;
+}
+.pro-image .thumbnails a:first-child { margin-left: 0px; }
+.pro-detail .star-rating { float: left; }
+.header-two .shop-bag .cart-food .detail img {
+	height: 62px;
+	width: 62px;
+}
+/*Woo*/
+.woocommerce-shipping-fields #ship-to-different-address { width: 100%; }
+.event-map {
+	padding: 5px;
+	border: 1px solid #dfdfdf;
+	border-radius: 2px;
+	margin-top: 50px;
+}
+/* =WordPress Core
+-------------------------------------------------------------- */
+.wp-caption .wp-caption-text, .entry-caption, .gallery-caption {
+	font-size: 15px;
+	font-weight: 300;
+}
+.sticky { }
+.bypostauthor { }
+.alignnone { margin: 5px 20px 20px 0; }
+.aligncenter, div.aligncenter {
+	display: block;
+	margin: 5px auto 5px auto;
+}
+.alignright {
+	float: right;
+	margin: 5px 0 20px 20px;
+}
+.alignleft {
+	float: left;
+	margin: 5px 20px 20px 0;
+}
+a img.alignright {
+	float: right;
+	margin: 5px 0 20px 20px;
+}
+a img.alignnone { margin: 5px 20px 20px 0; }
+a img.alignleft {
+	float: left;
+	margin: 5px 20px 20px 0;
+}
+a img.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto
+}
+.wp-caption {
+	background: #fff;
+	border: 1px solid #f0f0f0;
+	max-width: 96%; /* Image does not overflow the content area */
+	padding: 5px 3px 10px;
+	text-align: left;
+}
+aside .wp-caption { max-width: 100%; }
+aside .wp-caption img { margin: 0 0 10px; }
+.wp-caption.aligncenter, .wp-caption.alignnone {
+	overflow: hidden;
+	margin: 0 0 40px;
+}
+.pearl-post-content .wp-caption.aligncenter { float: none; }
+.pearl-post-content .wp-caption.alignright { float: right; }
+.wp-caption.alignnone {
+	margin: 5px 20px 20px 0;
+	float: none;
+}
+.wp-caption.alignleft { margin: 5px 20px 20px 0; }
+.wp-caption.alignright { margin: 5px 0 20px 20px; }
+.wp-caption img {
+	border: 0 none;
+	height: auto;
+	margin: 0;
+	max-width: 100%;
+	padding: 0;
+	width: auto;
+}
+.wp-caption p.wp-caption-text {
+	font-size: 11px;
+	line-height: 17px;
+	margin: 0;
+	padding: 0 4px 5px;
+}
+/* Text meant only for screen readers. */
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}
+.screen-reader-text:focus {
+	background-color: #f1f1f1;
+	border-radius: 3px;
+	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+	clip: auto !important;
+	color: #21759b;
+	display: block;
+	font-size: 14px;
+	font-size: 0.875rem;
+	font-weight: bold;
+	height: auto;
+	left: 5px;
+	line-height: normal;
+	padding: 15px 23px 14px;
+	text-decoration: none;
+	top: 5px;
+	width: auto;
+	z-index: 100000; /* Above WP toolbar. */
+}
+/* =WordPress Core End*/

@@ -1,0 +1,157 @@
+.header .nav ul li a.select-item,
+.header .nav ul li a:hover,
+.main-title span,
+.services .serv-main-sec:hover .service-sec i,
+.services .service-sec i,
+.our-story .story-detail a.full-story,
+.upcoming-event .event-detail .event-text a.view-event,
+.upcoming-event .event-detail .event-text p a:hover,
+.today-food .special-food .food-detail span.price,
+.latest-news .post .detail a:hover,
+.customer-words .testi-sec span.name,
+.footer .about-pearl .follow-us ul li a:hover,
+.footer .copyrights ul li a:hover,
+.footer-dark .about-pearl .follow-us ul li a:hover,
+.footer-dark .copyrights ul li a:hover,
+.header-two.sticky .social-icons li a:hover,
+.our-menu .menu-sec .menu-detail .food-detail span.price,
+.our-menu .food-sec .detail span.food-time,
+.blog .blog-post .post-text a.read-more,
+.news-posts .news-sec .detail a.read-more,
+.news-posts .news-sec .detail .comment a:hover span,
+.cbp-l-filters-list .cbp-filter-item.cbp-filter-item-active,
+.cbp-l-filters-list .cbp-filter-item:hover,
+.shop-gallery .cbp-item:hover  .price-cart .cart,
+.openTabby .openTabby--nav ul li:hover,
+.all-reviews .review-sec .review-detail .reviewer span.name,
+.shop-cart .cart-pro-detail .cancel i,
+.bread-crumb .bread-crumb-sec a.selected span.text,
+.hotel-bread-crumb .bread-crumb-sec a.selected span.text,
+.cash-payment .shipping-address .shipping-detail .edit-address,
+.header .shop-bag .cart-food .detail .text a:hover,
+.news-posts .news-sec .detail .comment a:hover,
+.news-posts .categories ul li a:hover,
+.news-posts .recent-posts .post-sec a.title:hover,
+.header-two .nav ul li a:hover,
+.header-two .shop-bag .cart-food .detail .text a:hover,
+.hotel-latest-posts .post-sec .post-detail a:hover,
+.footer-hotel-dark .foot-detail .useful-links ul li a:hover, .footer .food-detail .useful-links ul li a:hover i,
+.footer-hotel-dark .foot-detail .social-icons ul li a:hover,
+.welcome-pearl-hotel .text-detail a,
+.footer .social-icons ul li a:hover,
+.footer-hotel .foot-detail .social-icons ul li a:hover,
+.footer-hotel .foot-detail .useful-links ul li a:hover, .footer .food-detail .useful-links ul li a:hover i,
+.sub-banner .detail ul li a:hover, .sub-banner .detail ul li a.select,
+.hotel-sub-banner .detail ul li a:hover, .hotel-sub-banner .detail ul li a.select,
+.share-post ul li a:hover,
+.today-special-detail .main-sec .detail span.title,
+.shop-detail .product-detail span.categories a:hover,
+.cash-payment a,
+.after-cart a,
+.myaccount_user a,
+.myaccount_address a,
+.sidebar-section .widget ul li a:hover,
+.news-posts .leave-reply .form a,
+a,
+.blog .more-posts a:hover ,
+.latest-news .blog-list-v1 h3 a:hover,
+.menu-hot-links-container ul li a:hover,
+.about-hotel .what-include .include-sec a:hover,
+.about-hotel .what-include .include-sec:hover a
+{color: #E9B947;}
+.sidebar-section .widget_nav_menu .submenu li a:hover{color: #E9B947 !important;}
+
+
+/**
+ * Pearl Background
+ -----------------------------*/
+.sidebar-section .widget #today,
+.post-password-form input[type="submit"],
+::selection{ background:#e9b947;}
+.services .serv-main-sec:hover .service-sec-top-bg{ background:url(../images/service-top-hover.png) no-repeat;}
+.services .serv-main-sec:hover .service-sec-bottom-bg{ background:url(../images/service-bottom-hover.png) no-repeat;}
+
+.services .serv-main-sec:hover .service-sec,
+.white-btn:hover,
+.footer .about-pearl .newsletter a:hover,
+.footer-dark .about-pearl .newsletter a:hover,
+.services-two .serv-main-sec .service-sec .detail a:hover,
+.news-posts h6.bar-title,
+.news-posts .search,
+.woocommerce-product-search,
+.news-posts .comment-box .detail a:hover,
+.news-posts .leave-reply .form input[type=submit]:hover,
+.contact-page .get-in-touch .get-touch-form input[type=submit],
+.shop-detail .product-detail .pro-cart a,
+.add-review .form input[type=submit],
+.shop-detail .after-cart a:hover,
+.shop-cart .cart-update-sec a:hover,
+.cash-decide .cart-total .total-sec a,
+.bread-crumb .bread-crumb-sec a.selected span.number,
+.hotel-bread-crumb .bread-crumb-sec a.selected span.number,
+.cash-payment .cash-delivery .next-step,
+.cash-delivery-detail a.return-stor,
+.header .cart-button,
+.header .shop-bag .sub-total a:hover,
+.tp-caption .read-more:hover,
+.heapBox .heap .heapOptions .heapOption a.selected,
+.heapBox .heap .heapOptions .heapOption a:hover,
+.header-two .shop-bag .sub-total a:hover,
+.book-now-room:hover,
+.booking-accordion .availability,
+.hotel-latest-posts .find-location a:hover,
+.footer-hotel-dark .foot-detail .newsletetr a:hover,
+.footer-hotel .foot-detail .newsletetr a:hover,
+.hotel-rooms .room-sec .price-detail a:hover,
+.hotel-rooms .paging a.select, .hotel-rooms .paging a:hover,
+.room-detail .booking-form .availability,
+.booking-steps .reservation a,
+.booking-steps .your-room .detail .text a:hover,
+.booking-steps .book-now .payment-method a:hover,
+.ui-widget-header,
+.ui-state-highlight, .ui-widget-content .ui-state-highlight, .ui-widget-header .ui-state-highlight,
+.ui-state-default:hover, .ui-widget-content .ui-state-default:hover, .ui-widget-header .ui-state-default:hover,
+.sidebar-section .search,
+.woocommerce-product-search,
+.sidebar-section .widget h6,
+.woocommerce-sidebar h6.bar-title,
+.today-special-detail .main-sec,
+.pearl-btn
+{background:#E9B947;}
+
+.submenu a:hover { background: #E9B947 !important;}
+.current-menu-parent .submenu .current-menu-item a,
+.submenu a.select {background: #E9B947 !important;}
+.book-table .booking-form input[type=submit],
+.special-services .post .detail a:hover{background-color:#E9B947;}
+.cd-top { background-color:#E9B947 !important;}
+
+/**
+ * Pearl Border Color
+ -----------------------------*/
+.services .service-sec i{ border:solid 1px #E9B947;}
+.our-story .story-detail a.full-story{border-bottom: solid 2px #E9B947;}
+.upcoming-event .event-detail .event-text a.view-event{border-bottom: solid 2px #E9B947;}
+.upcoming-event .event-detail .event-text p a:hover{border-bottom: solid 1px #E9B947; color:#E9B947 !important;}
+.share-post ul li a:hover,
+.footer .about-pearl .follow-us ul li a:hover{border: solid 2px #E9B947;}
+.footer-dark .about-pearl .follow-us ul li a:hover{border: solid 2px #E9B947;}
+.services-two .serv-main-sec .service-sec .detail a:hover{border: solid 1px #E9B947; }
+.our-menu .food-sec .detail span.food-time{border-bottom: solid 1px #E9B947;}
+.blog .blog-post .post-text a.read-more{border-bottom: solid 2px #E9B947;}
+.news-posts .news-sec .detail a.read-more{border-bottom: solid 2px #E9B947;}
+.cbp-l-filters-list .cbp-filter-item.cbp-filter-item-active { border-bottom: solid 2px #E9B947;}
+.shop-gallery .cbp-item:hover  .price-cart .cart{border-bottom: solid 2px #E9B947;}
+.cash-payment .shipping-address .shipping-detail .edit-address{border-bottom: solid 1px #E9B947;}
+.cash-payment .shipping-address .shipping-method .shipping-across span.dot{border: solid 8px #E9B947;}
+.tp-caption .read-more:hover{border:solid 2px #E9B947 !important;}
+.special-services .post .detail a:hover{border:solid 1px #E9B947;}
+.latest-posts .find-location a:hover{border:solid 1px #E9B947;}
+.footer-hotel-dark .foot-detail .social-icons ul li a:hover{border: solid 2px #E9B947; }
+.welcome-pearl-hotel .text-detail a{border-bottom: solid 2px #E9B947;}
+.footer .social-icons ul li a:hover,
+.footer-hotel .foot-detail .social-icons ul li a:hover{border: solid 2px #E9B947; }
+.hotel-rooms .paging a.select, .hotel-rooms .paging a:hover{border: solid 1px #E9B947;}
+.th-btn:hover {
+    background: #E9B947;
+}

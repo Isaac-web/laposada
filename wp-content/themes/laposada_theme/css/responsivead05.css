@@ -1,0 +1,439 @@
+@media (max-width: 1590px) {
+	.header .get-touch li.book-table i { margin: -2px 0 0 48px;}
+	.header .get-touch  li.contact-no a{ display:none;}
+	#wrap{ overflow:hidden;}
+}
+@media (max-width: 1280px) {
+	.header .nav ul li a {padding: 26px 20px;} 
+	/*	Today Special */
+	.today-special-detail .main-sec{ width:80%;}
+	/*	Pearl Hotel */
+	.hotel-rooms .room-sec img {width: 100%;}
+	.hotel-rooms .room-sec .text-detail { width:72%; margin: 30px 3%;}
+	.hotel-rooms .room-sec .price-detail{ width:20%;}
+	.hotel-rooms .room-sec{ padding:0 0 30px 0;}
+}
+@media (max-width: 1199px) {
+	div#wrap {overflow: hidden;}
+	.header ul.shop-bag { position: absolute; right: 0; top: 70px;}
+	.header .nav ul li a { padding:26px 10px;}
+	.header-two .logo2 { margin: 25px 0 0 0;}
+	.header .get-touch li.book-table i { margin: -2px 0 0 38px;}
+	.header-two .get-touch li a { padding:0px 8px 0 0;}
+	.header-two .get-touch li.contact-no i { margin: 0px 10px 0 0;}
+	.header-two .social-icons { margin: 40px 0px 0 0;}
+	.header-two .social-icons li { margin: 0 3px;}
+	.header-two .nav ul li a{ margin:0 8px}
+	.scroll-down {left: 48%;}
+	.services .service-sec-top-bg {height: 25px;}
+	.services .serv-main-sec:hover .service-sec-top-bg{height: 25px;}
+	.today-food .special-food{ margin: 0px 0 0 0;}
+	.our-story .story-detail { margin: 0px 0 0 0;}
+	.blog .blog-post .post-text { margin: 35px 0 0 0;}
+	/*	Today Special */
+	.today-special-detail .main-sec{ width:90%;}
+	.today-special-detail .main-sec .detail{ margin:0 0 0 -70px;}
+	.news-posts .search input[type=text]{ width:86% !important;}
+	.news-posts .search a { width: 14% !important;}
+	.news-posts .tags .all-tags a { padding: 10px 10px;}
+	.news-posts .leave-reply .form input[type=text] { margin: 0 8px 0 0;}
+	.get-directions input[type="text"] { padding: 15px 2% 17px; width: 78%;}
+	.our-menu .menu-sec .menu-detail .food-detail span.title{ font-size:18px;}
+	.shop-detail .product-detail .social-icons ul li i{ float:none;}
+	.shop-detail .product-detail .social-icons ul li a{ text-align:center;}
+	.shop-detail .product-detail .social-icons ul li a{ padding:25px 10px;}
+	.shop-detail .product-detail .social-icons ul li span { margin: 18px 0 0 0; line-height: 18px;}
+	.all-reviews .review-sec .review-detail { width: 92% !important;}
+	p#reserv_error { width: 95%;}
+	/*	Pearl Hotel */
+	.welcome-hotel .welcome-detail .text h1{ font-size:44px;}
+	.booking-accordion .availability { padding:14px 1% !important;}
+	.footer-hotel .foot-detail .about-pearl img { width: 100%;}
+	.footer-hotel .foot-detail .newsletetr input[type=text] { width: 248px;}
+	.footer-hotel .foot-detail .useful-links ul li i{ display:none;}
+	.booking-steps .price-detail .stars i {font-size: 20px;}
+}
+@media (max-width: 992px) {
+	.header .get-touch li.book-table { display:none;}
+	.services .service-sec-top-bg { background:none;}
+	.services .serv-main-sec:hover .service-sec-top-bg{ background:none;}
+	.header-two .get-touch li{ display:none;}
+	.header-two .social-icons{ display:none;}
+	.header-two .nav ul li a { margin: 0 10px;}
+	.services .service-sec-bottom-bg{ background:none;}
+	.services .serv-main-sec:hover .service-sec-bottom-bg{ background:none;}
+	.services .service-sec { border: 4px double #e4e4e4; padding: 60px 20px; text-align: center;}
+	.services .serv-main-sec { margin: 25px 0 0 0;}
+	.master-town .parallax .detail h1{ font-size:38px;}
+	.our-story .story-detail { margin: 0px 0 65px 0;}
+	.parallax.parallax-event { height: 938px;}
+	ul#example li span { font-size: 70px !important;}
+	ul#example{ margin:15px 0 !important;}
+	.event-detail img { width: 34%; float: left; margin: 0 28px 0 0;}
+	.upcoming-event .event-detail .event-text { width: 62%; float:right;}
+	.today-food .special-food { margin: 65px 0 0 0 !important;}
+	.book-table .booking-form .field { margin: 0 20px 18px 0; float: left; width: 46%;}
+	.book-table .booking-form { width: 100%;}
+	.footer .get-touch .instagram{width: 100%; margin:58px 0 0 0;}
+	.footer .get-touch .instagram a { margin: 0 7px 6px 0;}
+	.footer .get-touch .open-hours{margin:58px 0 0 0;}
+	.footer .about-pearl .follow-us{ float:left;}
+	.footer .about-pearl .newsletter { float: right;}
+	.services-two .serv-main-sec .service-sec { margin: 0 0 48px 0;}
+	/*	Today Special */
+	.today-special-detail .main-sec .image { margin: 0px 0 0 0;}
+	.today-special-detail .main-sec .image img { width: 100%;}
+	.today-special-detail .main-sec .detail { margin: 0 0 0 0; text-align: center; position: relative; width: 100%;}
+	.our-story .atmosphere { margin:0 0 55px 0; }
+	.blog .blog-post .post-text { margin: 35px 0 35px 0;}
+	.blog .blog-post { margin: 0 0 48px 0; border-bottom: solid 1px #CECECE; padding: 0 0 48px 0;}
+	.news-posts .leave-reply { margin: 85px 0 85px 0;}
+	.news-posts .tags .all-tags a { padding: 10px 22px;}
+	.contact-page .get-in-touch .get-touch-form { margin: 60px 0 0 0;}
+	.contact-adrs2 { margin: 85px 0 0 0;}
+	.cash-payment .cash-delivery .cash-delivery-detail{ width:100%;}
+	.news-posts .about-event { margin: 75px 0 0 0;}
+	.latest-news .owl-theme .owl-controls .owl-buttons .owl-prev { left: 24%  !important;}
+	.latest-news .owl-theme .owl-controls .owl-buttons .owl-next { right: 28% !important;}
+	.our-menu .menu-sec .menu-detail img{/* display:none;*/}
+	.our-menu.our-menu3 .menu-sec .menu-detail img{ display:inline;}
+	.our-menu.our-menu3 .menu-sec .menu-detail .food-detail { margin:20px 0 120px 0;}
+	.our-menu .food-sec { margin: 0 0 80px 0;}
+	.our-menu .menu-sec .menu-detail .food-detail span.title{ font-size:22px;}
+	.cash-delivery.thanks-message i{ display:none;}
+	.shop-cart .cart-update-sec .apply-coupon input[type=text] { width: 272px;}
+	.shop-detail .after-cart{ text-align:center; padding: 28px 12px;}
+	.shop-detail .after-cart .text{ float:none;}
+	.shop-detail .after-cart a{float: none; margin: 24px 0 0 0; display: inline-block;}
+	.shop-detail .after-cart .text i{ float:none; margin: 0 8px 0 0;}
+	.shop-detail .after-cart .text span{display:block; margin:20px 0 0 0;}
+	.pro-detail { margin: 25px 0 0 0;}
+	.all-reviews .review-sec .review-detail { width: 88% !important;}
+	.shop-gallery .cbp-item { margin: 0 10px 80px 0;}
+	p#reserv_error { width: 91%;}
+	.footer .about-pearl .newsletter { width: 52%;}
+	.newsletter .success_msg { right: 0; width: 52%; left: inherit;}
+	/*	Pearl Hotel */
+	.booking-accordion .field { width: 23% !important;}
+	.booking-accordion .field.field2 { width: 13% !important;}
+	.welcome-hotel .welcome-detail .welcome-img{ display:none;}
+	.latest-posts .latest-news { margin: 25px 0 0 0;}
+	.latest-posts .find-location img { margin: 15px 0 0 0;}
+	.find-location { margin: 65px 0 0 0; float: left; width: 100%;}
+	.footer-hotel .foot-detail .about-pearl img { margin: 18px 0 0 0; width: auto;}
+	.footer-hotel .hotel-get-touch .get-touch-sec { margin: 0 0 35px 0;}
+	.footer-hotel .foot-detail .useful-links ul li i { display: block !important;}
+	.footer-hotel .newsletetr { margin: 65px 0 0 0;}
+	.footer-hotel .foot-detail .useful-links { margin: 65px 0 0 0;}
+	.footer-hotel-dark .foot-detail .about-pearl img { margin: 18px 0 0 0; width: auto;}
+	.footer-hotel-dark .hotel-get-touch .get-touch-sec { margin: 0 0 35px 0;}
+	.footer-hotel-dark .foot-detail .useful-links ul li i { display: block !important;}
+	.footer-hotel-dark .newsletetr { margin: 65px 0 0 0;}
+	.footer-hotel-dark .foot-detail .useful-links { margin: 65px 0 0 0;}
+	.about-hotel .include-sec span{ font-size:16px;}
+	.room-detail .booking-form{ margin:48px 0 0 0;}
+	.your-room {margin: 65px 0 0 0;}
+	.booking-steps .your-room .detail {margin: 20px 0 0 0;}
+	.booking-steps .guest-detail { margin: 47px 0 0 0;}
+	.booking-steps .book-now .payment-method{ margin:0 0 20px 0;}
+	.booking-steps .confirmation{ margin: 47px 0 0 0;}
+	.welcome-pearl-hotel .text-detail { margin: 48px 0 48px 0;}
+	ul.pearl-upcoming-events li span { font-size: 70px !important;}
+	ul.pearl-upcoming-events{ margin:15px 0 !important;}
+}
+@media (max-width: 991px) {
+	.footer-hotel-dark .newsletetr{ margin:0 !important;}
+	.footer-hotel .widget_nav_menu,
+	.footer-hotel .widget_pearl_newsletter{
+		width:100%;
+		float:left;
+		padding:40px 0 0;
+	}
+}
+@media (max-width: 768px) {
+	.loader { left: 43%;}
+	ul#example li.seperator { margin: 28px 15px 0 15px !important;}
+	.event-detail img{ display:none;}
+	.upcoming-event .event-detail .event-text { width: 100%;}
+	.parallax.parallax-event { height: 900px;}
+	.footer .get-touch .instagram a { margin: 0 5px 10px 5px; width: 48%;}
+	.footer .about-pearl .follow-us{ width:100%;}
+	.footer .about-pearl .newsletter { width:100%;}
+	.owl-theme .owl-controls .owl-buttons div{ display:none !important;}
+	.news-posts .author-post .author-detail img { margin: 0 22px 30px 0;}
+	.cbp-l-filters-list .cbp-filter-item { margin: 0 25px 0 0 !important;}
+	.shop-cart .cart-update-sec .apply-coupon input[type=text] { width: 188px;}
+	.shop-cart .cart-update-sec .apply-coupon a{ padding:13px 20px;}
+	.shop-cart .cart-update-sec a.update-cart{ padding:13px 28px;}
+	.shop-cart .cart-pro-detail .food-pro span { margin: 14px 0 0 0;}
+	.shop-cart .cart-pro-detail .food-pro img { float: none; display: block;}
+	.all-reviews .review-sec .review-detail { width: 86% !important;}
+	.header-two ul.shop-bag {float: right;margin: 0;}
+	.footer .about-pearl .newsletter { width:100%;}
+	.newsletter .success_msg { right: inherit; width:100%; left:0;}
+	.tp-leftarrow.tparrows{ display:none;}
+	.tp-rightarrow.tparrows{ display:none;}
+	/*	Pearl Hotel */
+	.booking-accordion{ position:relative !important;     bottom: 38px !important;}
+	.booking-accordion .field { width: 100% !important;}
+	.booking-accordion .field { margin: 0 0 12px 0 !important;}
+	.booking-accordion .field.field2 { width:100% !important ;}
+	 a.availability{width: 100% !important; display: block; text-align: center;}
+	.hotel-rooms .room-sec .price-detail .stars i { font-size: 20px;}
+	.room-detail .include-sec{ margin:0 14px 15px 0;}
+	.edit-account, 
+	.cart-empty, 
+	.cash-payment, 
+	.pearl-edit-address{
+		width: 90%;
+		overflow: hidden;
+		margin: 0 auto;
+	}
+}
+@media (max-width: 767px) {
+	/*#page .header a{ top:60px !important;}*/
+	body.logged-in #page .header a{ /*top:100px !important;*/}
+	.header-two ul.shop-bag {margin: 0 80px 0 0;}
+	.booking-accordion .availability{ width:100% !important;}
+	.th-hotalrooms .th-roominfo{
+		width:100%;
+		float:left;
+		padding:30px 0;
+	}
+	.th-hotalrooms .th-roomprice{ padding:0;}
+	
+}
+@media (max-width: 640px) {
+	.loader { left: 38% !important; top: 40% !important;}
+	.main-title-white h1{ font-size:35px; letter-spacing: 0;}
+	.main-title h1{ font-size:35px; letter-spacing: 0;}
+	.main-title-white span { font-size: 78px;}
+	.main-title span { font-size: 78px;}
+	ul#example li span { font-size: 40px !important;}
+	ul#example li p{ font-size: 16px !important}
+	ul#example li.seperator { margin: 28px 10px 0 10px !important; font-size: 26px !important;}
+	.parallax.parallax-book-table { height:1000px;}
+	.book-table .booking-form .field { width: 100%;}
+	.footer .get-touch .instagram a { margin: 0 4px 10px 4px;}
+	.footer .about-pearl .about-detail p{ width:100%;}
+	.main-title p { width: 100%;}
+	.scroll-down { left: 46.4%; bottom: 73px;}
+	.master-town .parallax .detail { margin-top: 100px !important;}
+	#owl-demo .item { margin: 0 0px 0 0 !important; padding: 0 0px 0 0 !important;}
+	.sub-banner .detail ul{ float:none;}
+	.sub-banner .detail ul li { display: inline-block; float:none;}
+	/*	Today Special */
+	.today-special-detail .main-sec { width: 100%;}
+	.today-special-detail { padding: 60px 0; background:none;}
+	.today-special-detail .main-sec .detail span.title { font-size: 54px; background:none;}
+	.today-special-detail .main-sec .detail p { margin: 24px 0 0 0;}
+	.news-posts .news-sec .detail span { font-size: 18px;}
+	.news-posts .news-sec .detail i { font-size: 22px;}
+	.news-posts .news-sec .detail .date { margin: 0 10px 0 0px;}
+	.news-posts .news-sec .detail .post-writer { display: none;}
+	.news-posts .leave-reply .form input[type=text] { margin: 0 5px 0 0;}
+	input[type=checkbox].css-checkbox + label.css-label{ line-height:17px !important;}
+	.bread-crumb .bread-crumb-sec a span.text { font-size: 16px;}
+	.cash-payment .shipping-address .shipping-detail span.bold { width: 152px;}
+	.cash-delivery-detail .delivered-detail .delivered-sec { width: 100%;}
+	.cbp-l-filters-list .cbp-filter-item{ width: 100%; padding:15px 0 !important;     border-bottom: solid 3px #555;}
+	.cbp-l-filters-list .cbp-filter-item:hover { padding:15px 0px !important;}
+	.cbp-l-filters-list .cbp-filter-item.cbp-filter-item-active{border-bottom: solid 3px #e9b947;}
+	.shop-cart .cart-products .titles .pro { width: 30%;}
+	.shop-cart .cart-products .titles .quantity { width: 20%;}
+	.shop-cart .cart-products .titles .total { width: 25%;}
+	.shop-cart .cart-products .titles .price { width: 20%;}
+	.shop-cart .cart-pro-detail .food-pro { width: 30%;}
+	.shop-cart .cart-pro-detail .quantity { width: 20%;}
+	.shop-cart .cart-pro-detail .total { width: 25%;}
+	.shop-cart .cart-pro-detail .price { width: 20%;}
+	.shop-cart .cart-pro-detail .food-pro img { width: 100%;}
+	.shop-cart .cart-update-sec .apply-coupon input[type=text] { width: 100%;}
+	.shop-cart .cart-update-sec .apply-coupon { width: 100%;}
+	.shop-cart .cart-update-sec .apply-coupon input[type=text] {width: 100%;}
+	.shop-cart .cart-update-sec .apply-coupon a { padding: 13px 0; width: 100%; text-align: center; margin:5px 0 0 0;}
+	.shop-cart .cart-update-sec a.update-cart { padding: 13px 0; width: 100%; text-align: center; margin: 35px 0 0 0;}
+	.all-reviews .review-sec .review-detail { width: 80% !important;}
+	.all-reviews .review-sec .review-detail .rating i { margin: 6px 0 0 2px; font-size: 16px;}
+	.add-review .form textarea {width: 100% !important;}
+	p#reserv_error { width: 93%;}
+	.booking-form .success {margin: 200px 0 0 0;}
+	.services { padding:30px 0;}
+	.services .serv-main-sec { margin:5px 0 0 0;}
+	.our-story { padding:60px 0;}
+	.latest-news {/* padding: 60px 0;*/}
+	.footer { padding:60px 0 0 0;}
+	.services-two { padding:60px 0;}
+	.welcome-hotel .welcome-detail .text { margin-top: 185px;}
+	/*	Pearl Hotel */
+	.welcome-hotel .welcome-detail .text h1{ font-size: 34px;}
+	.about-hotel .what-include{margin:55px 0 0 0;}
+	.about-hotel .include-sec {width: 100%; margin: 15px 0% 0 0;}
+	.about-hotel .include-sec.last{margin:15px 0% 0 0;}
+	.footer-hotel .foot-detail .about-pearl img { width: 100%;}
+	.footer-hotel-dark .foot-detail .about-pearl img { width: 100%;}
+	.hotel-rooms .room-sec .text-detail { width: 94%; margin: 30px 3%;}
+	.hotel-rooms .room-sec .text-detail ul li {width: 100%;}
+	.hotel-rooms .room-sec .price-detail { width: 100%;}
+	.hotel-rooms .room-sec { padding: 0 0 0 0;}
+	.room-detail .include-sec{ margin:0 0 15px 0; width:100%;}
+	.booking-steps .your-room .detail .text{ width:100%;}
+	.booking-steps .price-detail{ width:100%;}
+	.cash-payment .cash-delivery .cash-delivery-detail, 
+	.pearl-edit-address .cash-delivery-detail,
+	.pearl-my-account{
+		padding:20px;
+	}
+	.cash-payment .cash-delivery .cash-delivery-detail .form form p.form-row{
+		width:100%;
+	}
+	.cash-payment .cash-delivery .cash-delivery-detail .form form p.form-row:nth-child(even),
+	.cash-payment .cash-delivery .cash-delivery-detail .form form p.form-row:nth-child(odd){
+		padding:0;
+	}
+}
+@media (max-width: 600px) {
+	body.logged-in #page .header a{ top:60px !important;}
+	body.logged-in .sticky #page .header a{ top:40px !important;}
+	body.logged-in .header-two{ padding:45px 0 0;}
+	body.logged-in .header-1{ padding:45px 0px 13px 0;}
+	/*body.logged-in.header-v2 .tp-banner-container{ padding:45px 0 0;}*/
+}
+@media (max-width: 567px) {
+	.th-hotalrooms .th-roomprice{
+		padding:30px 0 0;
+		width:100%;
+	}
+	.th-hotalrooms figure{ width:100%;}
+	.th-bookeditems ul li .th-titlebox{width:100%; padding:0 0 30px;}
+	.th-bookeditems ul li .th-quentitybox{ width:70%;}
+	.th-bookeditems ul li .th-itemcost{ width:30%;}
+}
+@media (max-width: 480px) {
+	.loader { left:31% !important; top: 40% !important;}
+	ul#example li.seperator { margin: 28px 5px 0 5px !important;}
+	.today-food .special-food .food-detail span { font-size: 18px;}
+	.footer .get-touch .instagram a { margin: 0 4px 6px 4px; width: 47%;}
+	.footer .about-pearl .newsletter input[type=text]{ width:225px;}
+	.footer-dark .get-touch .instagram a { margin: 0 4px 6px 4px; width: 47%;}
+	.footer-dark .about-pearl .newsletter input[type=text]{ width:225px;}
+	#owl-demo .item { margin: 0 0px 0 0 !important; padding: 0 0px 0 0 !important;}
+	.news-posts .author-post .author-detail { text-align: center;}
+	.news-posts .author-post .author-detail img{ float:none;}
+	.news-posts .author-post .author-detail .text span.position { display: block;}
+	.news-posts .leave-reply .form input[type=text]{ width:100%; margin:0 5px 12px 0;}
+	.news-posts .recent-posts .post-sec a.title { font-size: 18px;}
+	.scroll-down { display:none;}
+	.contact-page .get-in-touch .get-touch-form input[type=text]{ margin:0 0 12px 0; width:100%;}
+	.contact-page .get-in-touch .get-touch-form textarea{ margin:0 0 0 0;}
+	.get-directions input[type="text"] { width: 64%; font-size: 15px;}
+	/*	Today Special */
+	.today-special-detail .main-sec { padding: 15px;}
+	.cash-payment .cash-delivery .cash-delivery-detail .form input[type=text]{ width:100%;}
+	.cash-payment .cash-delivery .cash-delivery-detail .form input[type=submit] { font-size: 15px; margin: 28px 0 40px 0;}
+	.sub-banner .detail h1{ font-size:38px;}
+	.cash-payment .shipping-address .shipping-detail span.bold { width: 100%;}
+	.cash-payment .shipping-address .shipping-method .shipping-across span.free { display: none;}
+	.cash-payment .shipping-address .shipping-method .shipping-across span.across { width: 75%;}
+	.cash-payment .cash-delivery .next-step { font-size: 14px; padding: 18px 14px;}
+	.cash-delivery-detail a.return-stor{ padding:18px 25px;}
+	.shop-cart .cart-products .titles span { font-size: 15px;}
+	.shop-cart .cart-pro-detail .quantity input[type=text] {width: 45px;}
+	.shop-cart .cart-pro-detail .total span{ font-size:18px;}
+	.shop-cart .cart-pro-detail .price span{ font-size:16px;}
+	.openTabby .openTabby--nav ul li { font-size:13px !important; padding: 0 16px !important;}
+	.openTabby .openTabby--nav ul li.active{ font-size:13px !important; padding: 0 16px !important;}
+	.openTabby .openTabby--slidesContainer .openTabby--slide { padding: 85px 18px !important;}
+	.description-text h3{ font-size:28px;}
+	.all-reviews .review-sec .reviewer-name img{ display:none;}
+	.all-reviews .review-sec .review-detail { width: 100% !important;}
+	p#reserv_error { width: 90%; font-size: 16px;}
+	.get-touch-form .success_msg{margin:100px 0 0 0;}
+	.header-two .shop-bag li.open-bag { margin: 85px 0 0 -222px !important;}
+	.all-reviews .review-sec {width: 85% !important;}
+	/*	Pearl Hotel */
+	.footer-hotel-dark .foot-detail .newsletetr input[type=text] {width: 234px;}
+}
+@media (max-width: 1230px) {
+	.header-two .nav ul li a{ margin:0 5px;}.header-two .social-icons { margin: 40px 0 0 0;}
+	.header-two .get-touch li a { padding: 0px 6px;} .header-two .get-touch li.contact-no i { margin: 0px 5px 0 0;}
+}
+@media (max-width: 1400px) {
+	.master-town {background-size: 120%;}
+	.upcoming-event { background-size: 130%;}
+	.parallax.parallax-book-table { background-size: 120%;}
+	.customer-words { background-size: 120%;}
+	/*	Pearl Hotel */
+	.welcome-hotel { background-size: 128%; background-position: 40% 0;}
+	.parallax.parallax-customer-words { background-size: 130%;}
+}
+@media (max-width: 1200px) {
+	.master-town {background-size: 120%;}
+	.upcoming-event { background-size: 130%;}
+	.parallax.parallax-book-table { background-size: 120%;}
+	.customer-words { background-size: 120%;}
+	/*	Pearl Hotel */
+	.welcome-hotel { background-size: 150%; background-position:55% 0;}
+	.parallax.parallax-customer-words { background-size:150%;}
+}
+@media (max-width: 992px) {
+	.master-town { background-size: 158%;}
+	.upcoming-event { background-size: 155%;}
+	.parallax.parallax-book-table { background-size: 155%; background-position: 55% 0;}
+	.customer-words { background-size: 155%;}
+	/*	Pearl Hotel */
+	.welcome-hotel { background-size:190%; background-position:55% 0; height:550px;}
+	.welcome-hotel .welcome-detail .text { margin-top: 155px;}
+	.parallax.parallax-customer-words { background-size:190%;}
+	.latest-news .blog-list-v1{ padding:0; margin:0;}
+	.latest-news .blog-list-v1 .blog-post .post-text{ margin:0px 0 35px 0; padding:0;}
+	
+	ul.pearl-upcoming-events li span { font-size: 70px !important;}
+	ul.pearl-upcoming-events{ margin:15px 0 !important;}
+	.event-detail img { width: 34%; float: left; margin: 0 28px 0 0;}
+	
+}
+@media (max-width: 768px) {
+	.master-town { background-size:220%; background-position:45% 0; height:400px;}
+	.upcoming-event { background-size:220%; height: 890px;}
+	.parallax.parallax-book-table { background-size:220%; background-position:70% 0;}
+	.customer-words { background-size:220%;}
+	/*	Pearl Hotel */
+	.welcome-hotel { background-size:240%; background-position:55% 0; height:550px;}
+	.welcome-hotel .welcome-detail .text { margin-top: 155px;}
+	.parallax.parallax-customer-words { background-size:240%;}
+	ul.pearl-upcoming-events li.seperator { margin: 28px 15px 0 15px !important;}
+}
+@media (max-width: 640px) {
+	.master-town { background-size:310%; background-position:30% 0;}
+	.upcoming-event { background-size:310%; height: 890px;}
+	.parallax.parallax-book-table { background-size:310%; background-position:70% 0;}
+	.customer-words { background-size:310%;}
+	/*	Pearl Hotel */
+	.welcome-hotel { background-size:330%; background-position:55% 0; height:550px;}
+	.welcome-hotel .welcome-detail .text { margin-top: 155px;}
+	.parallax.parallax-customer-words { background-size:330%;}
+	
+	ul.pearl-upcoming-events li span { font-size: 40px !important;}
+	ul.pearl-upcoming-events li p{ font-size: 16px !important}
+	ul.pearl-upcoming-events li.seperator { margin: 28px 10px 0 10px !important; font-size: 26px !important;}
+}
+@media (max-width: 480px) {
+	.master-town { background-size:490%; background-position:30% 0;}
+	.upcoming-event { background-size:490%; height:1000px;}
+	.parallax.parallax-book-table { background-size:490%; background-position:70% 0;}
+	.customer-words { background-size:490%; height: 1000px;}
+	/*	Pearl Hotel */
+	.welcome-hotel { background-size:500%; background-position:55% 0; height:750px;}
+	.welcome-hotel .welcome-detail .text { margin-top: 155px;}
+	.parallax.parallax-customer-words { background-size:500%; height:1000px;}
+	ul.pearl-upcoming-events li.seperator { margin: 28px 5px 0 5px !important;}
+}
+@media (max-width: 444px) {
+	.header-two .shop-bag li.open-bag{
+		width:320px;
+	}
+	.header-two .shop-bag li.open-bag {
+		margin: 85px 0 0 -204px !important;
+	}
+}
